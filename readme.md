@@ -9,3 +9,6 @@ Run the following command
 This will install all the requirements. The main GUI code can then be run by executing:
 <pre><code>py main.py
 </code></pre>
+
+The functionalities of the GUI as well as the usage of various image processing techniques have been described in the 
+[report](EE610_GUI_Assignment%20(1).pdf)
